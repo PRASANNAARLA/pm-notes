@@ -4,7 +4,7 @@
 * Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. ... Requirements, plans, and results are evaluated continuously so teams have a natural mechanism for responding to change quickly.
 ### SCRUM:
 * Scrum is a lightweight agile process framework used primarily for managing software development. Scrum is often contrasted with the so-called “Waterfall” approach, which emphasizes up-front planning and scheduling of activities, followed by execution.
-### Scrum menthodlogies:
+### Scrum :
 * Scrum follows a set of roles, responsibilities, and meetings that never change. For example, Scrum calls for four ceremonies that provide structure to each sprint: sprint planning, daily stand-up, sprint demo, and sprint retrospective.
 ### Sprint:
 * A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work. Sprints are at the very heart of scrum and agile methodologies, and getting sprints right will help your agile team ship better software with fewer headaches.
