@@ -1,3 +1,5 @@
+# From Class03:
+### Added new template and created three issues and one project . From the I have closed the one issue with the comments ,and two are opened.
 # pm-notes
 ## key notes from the discussion today
 ### Agile: 
